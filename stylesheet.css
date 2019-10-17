@@ -1,0 +1,22 @@
+.LogoContainer {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+}
+.NavBarSkillSelector {
+  background-color: black;
+  text-align: center;
+}
+.NavBarSkillSelector a {
+  color: white;
+}
+.BodyContainer {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
+.CalculatorContent {
+
+}
